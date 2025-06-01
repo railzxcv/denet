@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS completed_tasks;
+DROP TABLE IF EXISTS users;
+DROP TABLE IF EXISTS task_types;

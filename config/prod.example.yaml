@@ -1,0 +1,3 @@
+address: ":8080"
+storage_path: "postgres://user:pass@postgres:5432/denetdb?sslmode=disable"
+public_key_path: "./keys/public_key.pem"
